@@ -1,0 +1,9 @@
+{
+  "name": "talk-with-a-star-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lyric video studio: accounts, credits, YooKassa payments, Telegram bot, server-side renders",
+  "main": "server.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" }
+}
